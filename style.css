@@ -1,0 +1,40 @@
+#nav{
+  margin-top: 30px;
+}
+
+ul{
+  list-style: none;
+  margin: 0;
+  padding:0;
+}
+
+ul li{
+  display: inline;
+}
+
+#sign-in{
+  display: flex;
+  flex-direction: row;
+}
+
+.historias{
+  text-align: center;
+}
+
+.glyphicon {
+    font-size: 60px;
+    align-items: center;
+    background-color: ;
+}
+
+.tit{
+  font-size: 40px;
+  text-align: center;
+}
+#texto{
+  text-align: center;
+}
+
+.container{
+  margin-bottom: 50px;
+}
